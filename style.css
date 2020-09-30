@@ -105,6 +105,10 @@ footer {
 	width: 320px;
 	height: 200px;
 }
+.fotos {
+	text-align: center; 
+	padding-left: 7em;
+}
 .divs {
 	max-width: 400px;
 	height: 400px;
